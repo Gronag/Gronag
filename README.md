@@ -10,8 +10,8 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.HTML**
 - 📖 I am currently reading **Elantris** by Brandon Sanderson
-- 💬 Talk to me about Aikido, HTML, 
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- 💬 Talk to me about Aikido, HTML and health sport
+- 👯 We can connect to play some games
+- ⚡ Fun fact: 
 - 🧑‍💻 Tech I work on :
 
