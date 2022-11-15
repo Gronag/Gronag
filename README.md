@@ -8,7 +8,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Student by ReDi school for HTML Javascript and CSS 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.HTML**
+- 💻 I use daily **.HTML** **.CSS** **.JS**
 - 📖 I am currently reading **Elantris** by Brandon Sanderson
 - 💬 Talk to me about Aikido, HTML and health sport
 - 👯 We can connect to play some games
