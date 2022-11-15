@@ -9,8 +9,8 @@
 - 🏦 I'm a Student by ReDi school for HTML Javascript and CSS 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.HTML** **.CSS** **.JS**
-- 📖 I am currently reading **Elantris** by Brandon Sanderson
-- 💬 Talk to me about Aikido, HTML and health sport
+- 📖 I am currently reading **The Beginning after the End** by TurtleMe
+- 💬 Talk to me about Aikido, HTML, CSS and health sport
 - 👯 We can connect to play some games
 - ⚡ Fun fact: 
 - 🧑‍💻 Tech I work on :
