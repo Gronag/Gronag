@@ -8,10 +8,10 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Student by ReDi school for HTML Javascript and CSS 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.HTML** **.CSS** **.JS**
+- 💻 I use daily **.HTML** **.CSS** **.JS** **.REACT**
 - 📖 I am currently reading **The Beginning after the End** by TurtleMe
 - 💬 Talk to me about Aikido, HTML, CSS and health sport
 - 👯 We can connect to play some games
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Muscles can’t push. They can only pull.
 - 🧑‍💻 Tech I work on :
 
